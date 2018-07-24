@@ -1,0 +1,7 @@
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab 6\Lab 6\obj\Debug\Lab 6.csprojAssemblyReference.cache
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\Kristen\source\repos\C# Practice Labs\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
